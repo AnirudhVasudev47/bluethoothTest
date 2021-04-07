@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176422804571",
+    "project_id": "bluetoothhelmet-7e3d0",
+    "storage_bucket": "bluetoothhelmet-7e3d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176422804571:android:ed61c2669f10283cca737e",
+        "android_client_info": {
+          "package_name": "com.example.helmetbluetoothtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176422804571-qh9nvi5io89tsint2fu6o6124r7i3fke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO5MOYhPD91KChSOMM4Y7QI3zPBYPWvfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176422804571-qh9nvi5io89tsint2fu6o6124r7i3fke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
